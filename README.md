@@ -6,4 +6,3 @@ This repo contains multiple codes related to the usage of LLM on various problem
 * Used Faiss for indexing embeddings in RAG. One can also use Pinecone, etc for indexing.
 * Finetuning LLM via PEFT techniques is also shown on text summarization.
 * Do watch out this space for more informative codes and share your feedback if these codes are useful.
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/ashishgupta031/) for any help related to getting started on LLMs.
